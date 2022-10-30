@@ -1,0 +1,12 @@
+What is GIT?
+Git is a version control system and content control. It was created by Linus Torvals 
+Was concibed like a distributed system where there is not a unique place to store all the info, like SVC, with Git, every copy became a repository and all 
+of them save the history about every modification. 
+
+Regular commands:
+git init --> used to start a repository, generating a .git sub folder.
+git add --> used to add files inside a git repository, could b e one by one, batch or wildcard.
+git commit --> confirm all changes after a git add operation. The best practice request a comment to identify all changes and why.
+git diff --? This command let us to know about the difference between files, commits, branchs.
+git checkout --> Used to retore a repository to a previus version, jump between branchs or restore a file to the last point.
+git branch --> Create a branch. 

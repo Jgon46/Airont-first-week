@@ -10,3 +10,8 @@ git commit --> confirm all changes after a git add operation. The best practice 
 git diff --? This command let us to know about the difference between files, commits, branchs.
 git checkout --> Used to retore a repository to a previus version, jump between branchs or restore a file to the last point.
 git branch --> Create a branch. 
+
+Git Branch:
+Git bracnch is related to a time line during the devolopment process, it creates an snapshot of the main line an let us work with the code in a new line.
+
+
